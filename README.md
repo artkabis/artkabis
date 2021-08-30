@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Artkabis</h1>
+<h1 align="center">Hi 👋, I'm Gregory Nicolle alias Artkabis</h1>
 <h3 align="center">A passionate frontend and backend developer from France</h3>
 
 - 🔭 I’m currently working on [Nextjs React website](https://next-app-blog-sigma.vercel.app/)
