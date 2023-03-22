@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gregory Nicolle alias Artkabis</h1>
+<h1 align="center">Hi 👋, I'm Gregory Nicolle alias 
+    ___         __  __         __    _     
+   /   |  _____/ /_/ /______ _/ /_  (_)____
+  / /| | / ___/ __/ //_/ __ `/ __ \/ / ___/
+ / ___ |/ /  / /_/ ,< / /_/ / /_/ / (__  ) 
+/_/  |_/_/   \__/_/|_|\__,_/_.___/_/____/  
+                                           
+</h1>
 <h3 align="center">A passionate frontend and backend developer from France</h3>
 
 - 🔭 I’m currently working on [JWT React authentification](https://github.com/artkabis/jwt-authentification)
