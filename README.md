@@ -1,5 +1,5 @@
 
-<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fartkabis" target="blank">FOLLOM ME</a>
+<a href="https://github.com/artkabis"> <img src="https://img.shields.io/badge/Follow%20Me-Click%20Here!-blue?style=for-the-badge&logo=github" /> </a>
 
 ```javascript:
 
