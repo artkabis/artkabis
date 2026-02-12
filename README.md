@@ -187,9 +187,9 @@ Repo spécial utilisé pour personnaliser mon profil GitHub.
 > uplink established  
 > awaiting transmission…
 
-- 🌐 Portfolio : *à ajouter*  
-- 💼 LinkedIn : *à ajouter*  
-- 🐦 Twitter/X : *à ajouter*
+- 🌐 Portfolio : - [Artkabis.fr](https://artkabis.fr)
+- 💼 LinkedIn : [Artkabis Linkedin](https://fr.linkedin.com/in/gregory-nicolle-artkabis)
+
 
 ---
 
